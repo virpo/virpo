@@ -4,7 +4,7 @@
 
 I build AI products, odd little tools, physical objects, and events that make people ship. I’ve been doing that at Slido for 10+ years; since 2021, we’ve been part of Cisco. Side quests happen through [Oddventure](https://oddventure.com).
 
-[Website](https://virpo.io) · [LinkedIn](https://www.linkedin.com/in/hraska/) · [Tada on the App Store](https://apps.apple.com/gb/app/tada-disposable-camera-event/id6790120023)
+🌐 [Website](https://virpo.io) · 💼 [LinkedIn](https://www.linkedin.com/in/hraska/)
 
 ## Products, projects and events
 
