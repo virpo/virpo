@@ -1,6 +1,6 @@
 # Hi, I’m Peter 👋
 
-I like living somewhere between product, design, and engineering.
+**🤖 Building with too many agents | 🧩 Product × design × engineering | 💚 10+ years at Slido**
 
 I build AI products, odd little tools, physical objects, and events that make people ship. I’ve been doing that at Slido for 10+ years; since 2021, we’ve been part of Cisco. Side quests happen through [Oddventure](https://oddventure.com).
 
