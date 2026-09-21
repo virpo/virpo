@@ -17,6 +17,7 @@ I build AI products, odd little tools, physical objects, and events that make pe
 - 🎄 **[Advent of No-Code](https://adventofnocode.io)** — Twenty-four days of shipping tiny no-code and AI creations.
 - 🎪 **[Product Festival](https://festival.aibuildweek.com)** — A QR-powered demo day with product feedback, fictional investing, and VibeBank.
 - 🧳 **[All Packed](https://allpacked.virpo.io)** — A calm packing app distilled from a spreadsheet used for more than ten years.
+- ⏱️ **[Just a Timer](https://timer.virpo.io)** — A no-bullshit fullscreen timer for talks, workshops, events, and anything else that needs to end on time.
 
 ## Agents and open source
 
